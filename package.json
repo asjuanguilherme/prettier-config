@@ -1,0 +1,28 @@
+{
+  "name": "juan-prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asjuanguilherme/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "prettier-config",
+    "format"
+  ],
+  "author": "Juan Guilherme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asjuanguilherme/prettier-config/issues"
+  },
+  "homepage": "https://github.com/asjuanguilherme/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": ">3.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
